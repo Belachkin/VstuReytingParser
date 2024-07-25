@@ -7,6 +7,5 @@
 > [!WARNING]
 > Данная программа направлена на более комфортный доступ к своим данным в рейтинге и не несет цели навредить сайту или получить преимущество при поступлении
 >
-> ## License
-
+## License
 [MIT](https://github.com/Belachkin/VstuReytingParser?tab=MIT-1-ov-file#readme)
